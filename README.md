@@ -5,17 +5,20 @@
 
 	Veio de outras engenharias.
 
- ### Diferenças do Waterfall
+ ### Diferenças ao comparar com o Waterfall
 
-	Porém, faz o oposto do Waterfall (cascata). No lugar de dividir o projeto em fases, como a Engenharia
-	faz, o Agile precisa de velocidade para mudar, uma vez que os projetos, na área de tecnologia, estão
-	em constantes mudanças, dado os feedbacks dos clientes, regulamentações etc.
+	Apesar de vir de outras engenharias, faz o oposto do Waterfall (cascata).
+ 
+ 	No lugar de dividir o projeto em fases, como a Engenharia faz, o Agile precisa de velocidade para mudar, uma vez que os projetos,
+  	na área de tecnologia, estão em constantes mudanças, dado os feedbacks dos clientes, regulamentações etc.
+  
 	Ex: surgiu uma nova regulamentação, como a forma com que trabalhamos os dados, por exemplo.
 	Ex2: todo mundo investindo em celulares cada vez menores. De repente, surge o smartphone.
-	isso muda toda a lógica do web para o app.
+	
+ Isso muda toda a lógica do web para o app.
 
-	No Waterfall, assina e tem que ser aquilo até o fim, algo impossível para a tecnologia, que evolui
-	muito rápido.
+No Waterfall, assina e tem que ser aquilo até o fim, algo impossível para a tecnologia, que evolui muito rápido.
+
 
 #### 1. Priorização de Tarefas (1ª diferença entre AGILE e WATERFALL)
 
@@ -88,7 +91,10 @@ Com essa reação do cliente (feedback) é possível fazer alterações no fluxo
 	Entregar valor mais rápido.
   
 	Ser ágil é entregar valor rapidamente, reduzindo os custos de mudança e de incertezas.
-	Ser ágil significa entregar valor rapidamente, ter uma abordagem com foco naquilo que gera mais valor para o cliente e empresa, ou seja, quando algum cliente apresenta um problema, devemos oferecer a ele entregas parciais de acordo com a necessidade desse cliente.
+	
+ 	Ser ágil significa entregar valor rapidamente, ter uma abordagem com foco naquilo que gera mais valor para o cliente e empresa,
+ 	ou seja, quando algum cliente apresenta um problema, devemos oferecer a ele entregas parciais de acordo com a necessidade desse
+  	cliente.
   
 Esses ciclos rápidos de entrega fazem com que os fluxos e feedbacks sejam constantes e o aprimoramento do serviço/produto seja cada vez melhor, alcançando melhores resultados no final do processo.
 
