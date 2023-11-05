@@ -9,8 +9,9 @@
 
 	Apesar de vir de outras engenharias, faz o oposto do Waterfall (cascata).
  
- 	No lugar de dividir o projeto em fases, como a Engenharia faz, o Agile precisa de velocidade para mudar, uma vez que os projetos,
-  	na área de tecnologia, estão em constantes mudanças, dado os feedbacks dos clientes, regulamentações etc.
+ 	No lugar de dividir o projeto em fases, como a Engenharia faz, o Agile precisa de velocidade para mudar,
+  	uma vez que os projetos, na área de tecnologia, estão em constantes mudanças, dado os feedbacks dos
+   	clientes, regulamentações etc.
   
 	Ex: surgiu uma nova regulamentação, como a forma com que trabalhamos os dados, por exemplo.
 	Ex2: todo mundo investindo em celulares cada vez menores. De repente, surge o smartphone.
@@ -62,8 +63,8 @@ No Waterfall, assina e tem que ser aquilo até o fim, algo impossível para a te
 	importante, antes. Ex: começar com o quarto, banheiro, elétrica e hidráulica. Assim, deixo de pagar
 	aluguel. Cozinha, almoça fora. Carro, pára na rua, até que consiga construir o restante.
 
-	Não é pra perder tempo analisando as outras coisas. É fazer o quarto e o banheiro e esquecer os outros.
-	Depois, pensa nos outros.
+	Não é pra perder tempo analisando as outras coisas. É fazer o quarto e o banheiro e esquecer os
+ 	outros. Depois, pensa nos outros.
 
 
 1. Defina o projeto e seu objetivo final.
@@ -92,9 +93,9 @@ Com essa reação do cliente (feedback) é possível fazer alterações no fluxo
   
 	Ser ágil é entregar valor rapidamente, reduzindo os custos de mudança e de incertezas.
 	
- 	Ser ágil significa entregar valor rapidamente, ter uma abordagem com foco naquilo que gera mais valor para o cliente e empresa,
- 	ou seja, quando algum cliente apresenta um problema, devemos oferecer a ele entregas parciais de acordo com a necessidade desse
-  	cliente.
+ 	Ser ágil significa entregar valor rapidamente, ter uma abordagem com foco naquilo que gera mais valor
+  	para o cliente e empresa, ou seja, quando algum cliente apresenta um problema, devemos oferecer a ele
+   	entregas parciais de acordo com a necessidade desse cliente.
   
 Esses ciclos rápidos de entrega fazem com que os fluxos e feedbacks sejam constantes e o aprimoramento do serviço/produto seja cada vez melhor, alcançando melhores resultados no final do processo.
 
@@ -112,7 +113,7 @@ Isso é feito através de Priorização, Ciclos Rápidos e Feedback.
 	     (devemos trabalhar para desenvolver um projeto que funcione)
 
 	3.   A Colaboração Com o Cliente é mais importante que a Negociação Contratual.
-	     (focar na satisfação do cliente, independente do que diz o contrato, de modo a termos um bom feedback)
+	     (focar na satisfação do cliente, independente do que diz o contrato, de modo a ter um bom feedback)
 
 	4.   Responder a Mudanças é mais importante do que Seguir Um Plano.
 	     (se adaptar às mudanças)
